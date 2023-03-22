@@ -39,6 +39,12 @@ const unlockables: Unlockable[] = [
       "0x3d483f631a391a3706446613929d253cfddcb47900a07593c5004c5e3827d9ee",
     ], // You need to own 'GM #1' & 'GM #2' to unlock this.
   },
+  {
+    cid: "bafybeigp77chhmwunarnhzefwuja5urenv6rkg2kra36zxkabycc7byxrq", // Web game example
+    nftId: [
+      "0x1d8b005670cf9222da23367daf728100e7c2f21ca142675bdb295ac1562a993c",
+    ], // You need to own WUF.
+  },
 ];
 
 export { unlockables };
